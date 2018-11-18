@@ -2,7 +2,7 @@
 Using decision tree classifier to predict the behavior of scooter riders passing through yellow light after seeing it
 
 Label: Run trough/stop after seeing yellow light
-1 - Run through
+1 - Run through\n
 0 - Stop
 
 Features:
