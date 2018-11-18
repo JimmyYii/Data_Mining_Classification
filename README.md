@@ -11,7 +11,6 @@ b. Distance from intersection
 c. Where from (_TW)
 d. Gender
 e. Having backseat passenger
-
 f. Wearing headphone
 
 For c: south => 0/ middle => 1/ north => 2/ east => 3
